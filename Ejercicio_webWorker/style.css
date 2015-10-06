@@ -1,0 +1,20 @@
+﻿body {
+
+    text-align: center;
+
+}
+
+#areaTrabajo {
+    background-color:lightblue;
+    height:400px;
+    width:600px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+span {
+    text-align:left;
+    
+    margin:auto;
+}
