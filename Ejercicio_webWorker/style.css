@@ -15,6 +15,7 @@
 }
 span {
     text-align:left;
-    
+    color: red;
+    font-size: 120px;
     margin:auto;
 }
